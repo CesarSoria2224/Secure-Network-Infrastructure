@@ -1,12 +1,18 @@
-# Diagramas de la propuesta
+# Diagramas y planos del proyecto
 
-Esta carpeta está reservada para imágenes exportadas del informe académico. No se han subido diagramas todavía.
+Imágenes de la arquitectura propuesta:
 
-## Archivos sugeridos
+- [Topología principal](topologia-principal.png)
+- [Segmentación VLAN](segmentacion-vlans.png)
+- [Seguridad perimetral](seguridad-perimetral.png)
+- [Arquitectura DMZ](arquitectura-dmz.png)
+- [Acceso remoto VPN](acceso-remoto-vpn.png)
+- [Infraestructura virtualizada](infraestructura-virtualizada.png)
 
-- `topologia-fisica.png` — distribución física y conectividad.
-- `topologia-logica.png` — vista lógica de la arquitectura.
-- `segmentacion-vlans.png` — separación de departamentos y servicios.
-- `arquitectura-seguridad.png` — firewall, DMZ, VPN y otros controles propuestos.
+## Distribución por plantas
 
-Sube solo los diagramas que existan en el documento. Los nombres son orientativos y pueden ajustarse a los archivos reales.
+- [Planta baja](floor-plans/planta-baja.png)
+- [Primer piso](floor-plans/primer-piso.png)
+- [Segundo piso](floor-plans/segundo-piso.png)
+
+Los diagramas representan una **propuesta académica**, no un despliegue validado en producción. Consulta el [informe completo](../docs/proyecto-alcaldia.pdf) para el contexto.
