@@ -1,11 +1,7 @@
-# Informe académico
+# Informe del proyecto
 
-Aquí se publicará el documento del proyecto **Diseño de Infraestructura de Red Segura — Alcaldía Municipal**.
+El documento académico ya está publicado:
 
-## Archivo por subir
+- **[proyecto-alcaldia.pdf](proyecto-alcaldia.pdf)** — informe de diseño de infraestructura de red segura para una alcaldía municipal.
 
-- `proyecto-alcaldia.pdf` — informe académico (74 páginas).
-
-**Estado:** pendiente de carga. El documento representa una **propuesta académica**, no una implementación real.
-
-Antes de subir el PDF, revisa datos personales, datos de terceros y cualquier material que necesite autorización para su publicación.
+El informe documenta una **propuesta de diseño y planificación**, no una instalación real. Las observaciones y posibles mejoras posteriores se explican en [notas técnicas](../notes/README.md).
